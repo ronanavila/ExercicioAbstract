@@ -1,0 +1,11 @@
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\bin\Debug\netcoreapp3.1\ExercicioAbstract.exe
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\bin\Debug\netcoreapp3.1\ExercicioAbstract.deps.json
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\bin\Debug\netcoreapp3.1\ExercicioAbstract.runtimeconfig.json
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\bin\Debug\netcoreapp3.1\ExercicioAbstract.runtimeconfig.dev.json
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\bin\Debug\netcoreapp3.1\ExercicioAbstract.dll
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\bin\Debug\netcoreapp3.1\ExercicioAbstract.pdb
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\obj\Debug\netcoreapp3.1\ExercicioAbstract.csprojAssemblyReference.cache
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\obj\Debug\netcoreapp3.1\ExercicioAbstract.AssemblyInfoInputs.cache
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\obj\Debug\netcoreapp3.1\ExercicioAbstract.AssemblyInfo.cs
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\obj\Debug\netcoreapp3.1\ExercicioAbstract.dll
+C:\Users\Ronan\Desktop\ExercicioAbstract\ExercicioAbstract\ExercicioAbstract\obj\Debug\netcoreapp3.1\ExercicioAbstract.pdb
